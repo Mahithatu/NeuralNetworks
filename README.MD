@@ -291,19 +291,6 @@ Metrics were evaluated both at the overall dataset level and at the individual c
 
 ---
 
-## Future Improvements
-
-Potential enhancements include:
-
-- Convolutional Neural Networks (CNNs)
-- Batch Normalization
-- Learning Rate Scheduling
-- Early Stopping
-- Hyperparameter Optimization
-- Data Augmentation
-
----
-
 ## Repository Structure
 
 ```text
